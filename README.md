@@ -1,11 +1,33 @@
-## Olá! João Lucas aqui ☕
+# Bem vindo desenvolvedor
+```js
+const Dev = {
+  name: "Lucas",
+  age: 19,
+  technologies: {
+    FrontEnd: ["HTML", "CSS", "JS"],
+    BackEnd: ["Node.js"]
+  },
+  warning: "Se funcionou, não mexa."
+}
+```
 
-<img src="https://yt3.ggpht.com/BfdLTExyQhUKtMxI_XPwdsGKw-AbyNLNaWZs1n1xjruhW6Q_OtshFjLuURPYQccpff1hlTdcbmAk530=s300-c-fcrop64=1,02890000ffffffff-nd-rwa"/>
+## Tecnologias:
+<div class="tecnologias">
+    <h3>Domínio</h3>
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />        
+</div>
 
- ##
-<div>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
+<div class="tecnologias">
+    <h3>Estudando</h3>
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+</div>
+
+<div class="tecnologias">
+    <h3>Ferramentas</h3>
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />             
 </div>
