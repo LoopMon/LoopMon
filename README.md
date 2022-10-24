@@ -22,7 +22,7 @@ const Dev = {
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-# Tecnologias:
+# Tecnologias
 <div align="center">
 
 |Domínio|Estudando|Ferramentas|
@@ -32,3 +32,18 @@ const Dev = {
 |<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
 
 </div>
+
+# Minhas redes
+<p align="left">
+
+<a href="https://codepen.io/loopmon" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-loopmon-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+
+<a href="https://www.linkedin.com/in/moonlop" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaolucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+
+</p>
+
