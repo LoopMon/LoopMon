@@ -25,7 +25,7 @@ const Dev = {
 # Tecnologias
 <div align="center">
 
-|Domínio|Estudando|Ferramentas|
+|Experiência|Estudando|Ferramentas|
 |   :-: |   :-:   |     :-:   |
 |<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|
 |<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" /> |
@@ -40,10 +40,8 @@ const Dev = {
   <img align="center" src="https://img.shields.io/badge/-loopmon-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 
-<a href="https://www.linkedin.com/in/moonlop" target="_blank">
+<a href="https://www.linkedin.com/in/Lucas06" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joaolucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-
 </p>
 
