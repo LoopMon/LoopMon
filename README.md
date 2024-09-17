@@ -3,27 +3,12 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-# Development stack
+# João Lucas da Costa
+Nascido em Guajará-Mirim/RO, Solteiro, 20 anos.
+Estudante do Curso Superior de Ciências da Computação, 5° Período.
 
-<b>Front-end</b>
-<div>
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
 
-<b>Database</b>
-<div>
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
-</div>
-
-<b>Games</b>
-<div>
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-    <img height="30" width="30" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png">
-</div>
-
-# More
+# Outras Redes
 <p align="left">
 <a href="https://codepen.io/loopmon" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-loopmon-05122A?style=flat&logo=codepen" alt="codepen"/>
