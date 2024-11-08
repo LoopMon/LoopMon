@@ -3,12 +3,95 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-# João Lucas da Costa
-Nascido em Guajará-Mirim/RO, Solteiro, 20 anos.
+# 🤖 João Lucas
+Nascido em Guajará-Mirim/RO, 21 anos.
 Estudante do Curso Superior de Ciências da Computação, 5° Período.
+Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções inovadoras e transformar ideias em realidade, tenho explorado tecnologias como Node.js, e Python.
+
+## 🚀 Sobre Mim
+- 🌱 Atualmente estou aprimorando meus conhecimentos em React-Native e Node.js.
+- 📚 Sou estudante na Universidade Vila Velha.
+
+## 🛠️ Tecnologias & Ferramentas
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="VSCode"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 
 
-# Outras Redes
+<img 
+    align="left"
+    alt="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+          
+
+<br />
+  
+## Outras Redes
 <p align="left">
 <a href="https://codepen.io/loopmon" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-loopmon-05122A?style=flat&logo=codepen" alt="codepen"/>
