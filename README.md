@@ -70,7 +70,6 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img
     align="left"
     alt="VSCode"
@@ -78,8 +77,6 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-
-
 <img 
     align="left"
     alt="MySQL"
@@ -87,7 +84,13 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-          
+<img 
+    align="left"
+    alt="MySQL"
+    width="30px"
+    style="padding-right: 10px; border-radius: 10px"
+    src="https://pbs.twimg.com/profile_images/1724843109123567616/wbAR3IlF_400x400.jpg" 
+/>
 
 <br />
   
