@@ -14,6 +14,14 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
 
 ## 🛠️ Tecnologias & Ferramentas
 
+
+<img 
+    align="left"
+    alt="Linux Mint"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> 
 <img 
     align="left" 
     alt="HTML"
@@ -73,6 +81,7 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
 <img
     align="left"
     alt="VSCode"
+    title="VSCode"
     width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
@@ -80,13 +89,15 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
 <img 
     align="left"
     alt="MySQL"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left"
-    alt="MySQL"
+    alt="Pygame"
+    title="Pygame"
     width="30px"
     style="padding-right: 10px; border-radius: 10px"
     src="https://pbs.twimg.com/profile_images/1724843109123567616/wbAR3IlF_400x400.jpg" 
