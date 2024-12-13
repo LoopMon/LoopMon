@@ -111,7 +111,7 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
     <img align="center" src="https://img.shields.io/badge/-loopmon-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Lucas06" target="_blank">
+<a href="https://www.linkedin.com/in/jlucas15" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-joaolucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
