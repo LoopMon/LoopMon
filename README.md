@@ -5,7 +5,7 @@
 
 # 🤖 João Lucas
 Nascido em Guajará-Mirim/RO, 21 anos.
-Estudante do Curso Superior de Ciências da Computação, 5° Período.
+Estudante do Curso Superior de Ciências da Computação, 6° Período.
 Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções inovadoras e transformar ideias em realidade, tenho explorado tecnologias como Node.js, e Python.
 
 ## 🚀 Sobre Mim
@@ -114,5 +114,6 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
 <a href="https://www.linkedin.com/in/jlucas15" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-joaolucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
 </p>
 
