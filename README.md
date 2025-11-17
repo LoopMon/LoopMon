@@ -11,7 +11,7 @@ Sou desenvolvedor com experiência em front-end. Apaixonado por criar soluções
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprimorando meus conhecimentos em React-Native e Node.js.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em NextJS e Node.js.
 - 📚 Sou estudante na Universidade Vila Velha.
 
 ## 🛠️ Tecnologias & Ferramentas
