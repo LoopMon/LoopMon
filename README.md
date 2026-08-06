@@ -64,12 +64,36 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 
 ## ⭐ Projetos em destaque
 
-🔹 Finance Squirrel
-> Aplicação para gerenciamento financeiro desenvolvida em equipe.
+### 🎮 Canvas & JavaScript
 
-🔹 (Outro projeto)
+| Projeto | Descrição |
+|---------|-----------|
+| **[Star Wars Hyperspace](https://github.com/LoopMon/star-wars-hyperspace)** | Animação em Canvas reproduzindo o efeito de viagem ao hiperespaço inspirado em Star Wars. |
+| **[Astro Motion](https://github.com/LoopMon/astro_motion)** | Simulações e animações utilizando HTML5 Canvas e JavaScript. |
+| **[Planta vs Zombie](https://github.com/LoopMon/planta-vs-zombie)** | Recriação do clássico jogo utilizando HTML5 Canvas e JavaScript. |
+| **[Flappy Pássaro](https://github.com/LoopMon/FlappyPassaro)** | Implementação do jogo Flappy Bird utilizando Canvas e JavaScript. |
 
-🔹 (Outro projeto)
+---
+
+### 🎓 Trabalhos Acadêmicos
+
+| Projeto | Área |
+|---------|------|
+| **[C-Jison Compiler](https://github.com/LoopMon/C-Jison-Compiler)** | Compiladores • Implementação de um compilador utilizando Jison. |
+| **[CFG Normalizer](https://github.com/LoopMon/CFG-Normalizer)** | Linguagens Formais • Normalização de Gramáticas Livres de Contexto. |
+| **[NFA to DFA Converter](https://github.com/LoopMon/NFA-to-DFA-Converter)** | Teoria da Computação • Conversão de AFN para AFD. |
+| **[Tetraedro 3D](https://github.com/LoopMon/tetraedro-3d)** | Computação Gráfica • Renderização de um tetraedro em 3D. |
+| **[Processamento de Imagens](https://github.com/LoopMon/pset_processamento_imagens)** | Processamento Digital de Imagens • Implementação de algoritmos de manipulação de imagens. |
+| **[Fatoração LU](https://github.com/LoopMon/fatoracao_LU)** | Álgebra Linear Computacional • Implementação da decomposição LU. |
+| **[Banco de Dados UVV](https://github.com/LoopMon/uvv_bd_1_cc1n)** | Banco de Dados • Modelagem, SQL e implementação de banco de dados. |
+
+---
+
+### 💰 Projeto Full Stack
+
+| Projeto | Descrição |
+|---------|-----------|
+| **Finance Squirrel** | Aplicação Full Stack para gerenciamento financeiro, desenvolvida em equipe utilizando JavaScript, Node.js e tecnologias modernas para web. |
 
 ---
 
