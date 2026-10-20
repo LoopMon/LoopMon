@@ -10,8 +10,6 @@ Construindo aplicações modernas utilizando JavaScript, TypeScript e Node.js.
 
 </div>
 
----
-
 ## 👋 Sobre mim
 
 Sou estudante de Ciência da Computação apaixonado por desenvolvimento de software e por criar soluções que resolvam problemas reais.
@@ -19,8 +17,6 @@ Sou estudante de Ciência da Computação apaixonado por desenvolvimento de soft
 Tenho experiência no desenvolvimento de aplicações utilizando JavaScript e TypeScript, atuando tanto no frontend quanto no backend. Gosto de escrever código limpo, aprender novas tecnologias e entender como as coisas funcionam "por baixo dos panos".
 
 Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvolvimento de aplicações web escaláveis.
-
----
 
 ## 🚀 Stack Principal
 
@@ -51,16 +47,12 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 ## 📚 Atualmente
 
 - 📖 Estudando Ciência da Computação
 - 💻 Desenvolvendo projetos Full Stack
 - 🌱 Aprendendo arquitetura de software
 - 🐧 Explorando o ecossistema Linux
-
----
 
 ## ⭐ Projetos em destaque
 
@@ -73,7 +65,6 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 | **[Planta vs Zombie](https://github.com/LoopMon/planta-vs-zombie)** | Recriação do clássico jogo utilizando HTML5 Canvas e JavaScript. |
 | **[Flappy Pássaro](https://github.com/LoopMon/FlappyPassaro)** | Implementação do jogo Flappy Bird utilizando Canvas e JavaScript. |
 
----
 
 ### 🎓 Trabalhos Acadêmicos
 
@@ -87,7 +78,6 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 | **[Fatoração LU](https://github.com/LoopMon/fatoracao_LU)** | Álgebra Linear Computacional • Implementação da decomposição LU. |
 | **[Banco de Dados UVV](https://github.com/LoopMon/uvv_bd_1_cc1n)** | Banco de Dados • Modelagem, SQL e implementação de banco de dados. |
 
----
 
 ### 💰 Projeto Full Stack
 
@@ -95,7 +85,6 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 |---------|-----------|
 | **Finance Squirrel** | Aplicação Full Stack para gerenciamento financeiro, desenvolvida em equipe utilizando JavaScript, Node.js e tecnologias modernas para web. |
 
----
 
 ## 📫 Contato
 
