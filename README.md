@@ -60,8 +60,8 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 
 | Projeto | Descrição |
 |---------|-----------|
-| **[Star Wars Hyperspace](https://github.com/LoopMon/star-wars-hyperspace)** | Animação em Canvas reproduzindo o efeito de viagem ao hiperespaço inspirado em Star Wars. |
-| **[Astro Motion](https://github.com/LoopMon/astro_motion)** | Simulações e animações utilizando HTML5 Canvas e JavaScript. |
+| **[Star Wars Hyperspace](https://loopmon.github.io/star-wars-hyperspace/)** | Animação em Canvas reproduzindo o efeito de viagem ao hiperespaço inspirado em Star Wars. |
+| **[Astro Motion](https://loopmon.github.io/astro_motion/)** | Simulações e animações utilizando HTML5 Canvas e JavaScript. |
 | **[Planta vs Zombie](https://github.com/LoopMon/planta-vs-zombie)** | Recriação do clássico jogo utilizando HTML5 Canvas e JavaScript. |
 | **[Flappy Pássaro](https://github.com/LoopMon/FlappyPassaro)** | Implementação do jogo Flappy Bird utilizando Canvas e JavaScript. |
 
