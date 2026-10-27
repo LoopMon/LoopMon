@@ -12,22 +12,25 @@ Construindo aplicações modernas utilizando JavaScript, TypeScript e Node.js.
 
 ## 👋 Sobre mim
 
-Sou estudante de Ciência da Computação apaixonado por desenvolvimento de software e por criar soluções que resolvam problemas reais.
+Sou estudante de Ciência da Computação com formação técnica em Informática, apaixonado por desenvolvimento de software e por criar soluções que resolvam problemas reais.
 
-Tenho experiência no desenvolvimento de aplicações utilizando JavaScript e TypeScript, atuando tanto no frontend quanto no backend. Gosto de escrever código limpo, aprender novas tecnologias e entender como as coisas funcionam "por baixo dos panos".
+Possuo base sólida em programação, bancos de dados e desenvolvimento de APIs, com experiência em aplicações JavaScript e TypeScript, tanto no frontend quanto no backend. Também tenho conhecimentos em desenvolvimento web e redes de computadores.
 
-Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvolvimento de aplicações web escaláveis.
+Gosto de escrever código limpo, aplicar boas práticas e construir soluções eficientes, escaláveis e bem estruturadas, sempre buscando entender como as coisas funcionam "por baixo dos panos". Tenho facilidade em aprender novas tecnologias e experiência em trabalho em equipe.
 
 ## 🚀 Stack Principal
+
+### Linguagens
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Front-end
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Back-end
 
@@ -49,17 +52,18 @@ Atualmente tenho estudado arquitetura de software, Linux, compiladores e desenvo
 
 ## 📚 Atualmente
 
-- 📖 Estudando Ciência da Computação
-- 💻 Desenvolvendo projetos Full Stack
-- 🌱 Aprendendo arquitetura de software
-- 🐧 Explorando o ecossistema Linux
+- **Arquitetura de software:** aprendendo princípios e padrões para construir sistemas bem organizados e fáceis de manter
+- **Ecossistema Linux:** explorando o sistema, a linha de comando e as ferramentas do dia a dia de quem desenvolve
+- **Projeto e Análise de Algoritmos:** estudando técnicas de projeto e análise de complexidade para criar soluções mais eficientes
+- **Redes e Cibersegurança:** aprimorando conhecimentos em redes de computadores e em boas práticas de segurança
 
 ## ⭐ Projetos em destaque
 
-### 🎮 Canvas & JavaScript
+### 🎮 Jogos e Simulações Web
 
 | Projeto | Descrição |
 |---------|-----------|
+| **[LinguaPlay](https://loopmon.github.io/linguaplay/)** | Mini-game web para praticar vocabulário italiano com traduções para o português brasileiro, tornando o aprendizado de novos termos mais interativo por meio de perguntas e respostas. |
 | **[Star Wars Hyperspace](https://loopmon.github.io/star-wars-hyperspace/)** | Animação em Canvas reproduzindo o efeito de viagem ao hiperespaço inspirado em Star Wars. |
 | **[Astro Motion](https://loopmon.github.io/astro_motion/)** | Simulações e animações utilizando HTML5 Canvas e JavaScript. |
 | **[Planta vs Zombie](https://github.com/LoopMon/planta-vs-zombie)** | Recriação do clássico jogo utilizando HTML5 Canvas e JavaScript. |
